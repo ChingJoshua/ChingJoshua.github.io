@@ -1,2 +1,4 @@
 # ChingJoshua.github.io
-Learning how to deploy a website with Codecademy (Deploy a Website)
+
+Personal website to showcase what little achievements and accolades I have.
+Based on a website deployment tutorial using Codecademy.

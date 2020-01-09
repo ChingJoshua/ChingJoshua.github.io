@@ -9,7 +9,8 @@
 title: Joshua Ching
 email: jchin060@uottawa.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Being a geek is all about learning the inventories of things. - Adam Savage
+  Being a geek is all about learning the inventories of things.
+  - Adam Savage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "chingjoshua.github.io" # the base hostname & protocol for your site
 twitter_username: N/A

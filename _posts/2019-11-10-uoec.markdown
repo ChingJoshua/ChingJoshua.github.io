@@ -1,9 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-05-25 16:41:31 +0000
-categories: jekyll update
+title:  "uOttawa Engineering Competition"
+date:   2019-11-10 21:41:31 +0000
+categories: engineering
 ---
+
+It was a great pleasure to participate in the uOttawa Engineering Competition (uOEC) alongside my teammates and friends, Clark Chen, Amit Nayak, and Sam Tremblay.
+
+We were tasked to devise a lawn maintenance device from household materials that plants seeds, cuts grass, and waters the lawn. We had the opportunity to improve our ideation, manufacturing, and presentation skills.
+
+For our efforts, we were awarded first place out of 7 teams in the Junior Design category and will be heading to Guelph in January to participate in the Ontario Engineering Competition!
+
+Thank you to the Engineering Students’ Society for making this event possible!
+
+<!--
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
@@ -23,3 +33,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+-->

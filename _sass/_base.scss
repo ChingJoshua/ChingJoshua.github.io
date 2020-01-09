@@ -204,3 +204,24 @@ pre {
         }
     }
 }
+
+/* Tools */
+.flex-container {
+	display: flex;
+	height: auto;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.flex-item {
+	font-size: 1em;
+	display: inline-block;
+	font:0.9em sans-serif;
+	margin: 7px;
+	padding: 5px 10px;
+	list-style: none;
+	background: #e4e4ea;
+	color: #1a1a1a;
+}

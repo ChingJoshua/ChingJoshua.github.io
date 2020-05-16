@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Ontario Engineering Competition"
+date:   2019-11-10 21:41:31 +0000
+categories: engineering
+---
+
+The 2020 Ontario Engineering Competition was a provincial general engineering competition for university students, hosted in the University of Guelph. Having won Junior Design for our regional competition, we qualified to participate in the same category.
+
+Our competition this time was to build an apparatus that would elevate certain objects (styrofoam balls, glue sticks, a heavy weight) up 30 cm and deposit them on a platform. Possibilities included pneumatic and telescopic designs.
+
+We had a plethora of ideas which ultimately led us crunched on time. We ended up with a machine that did not satisfy the requirements. The evident lesson to be learned is to make a decision and stick to it.
+
+That aside, the competition was well-run. Amenities were plentiful, the events were well-organized, and the other participants were friendly. I had an overall positive experience and hope I'd get the opportunity to go next year.

@@ -15,4 +15,4 @@ You can find the source code for Jekyll at
 [jekyll](https://github.com/jekyll/jekyll)
 -->
 
-[Curriculum vitae](/resume.pdf)
+[Curriculum vitae: as of October 2021](/_Joshua-Ching-2021.pdf)

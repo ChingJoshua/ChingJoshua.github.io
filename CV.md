@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 ---
 <!--
@@ -15,4 +15,6 @@ You can find the source code for Jekyll at
 [jekyll](https://github.com/jekyll/jekyll)
 -->
 
-[Curriculum vitae: as of October 2021](/_Joshua-Ching-2021.pdf)
+Updated as of October 2023.
+[Mechanical and Biomedical](/_Joshua-Ching-2023-10-03-mechanical.pdf)
+[Software](/_Joshua-Ching-2023-10-03-software.pdf)

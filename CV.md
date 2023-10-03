@@ -15,6 +15,6 @@ You can find the source code for Jekyll at
 [jekyll](https://github.com/jekyll/jekyll)
 -->
 
-Updated as of October 2023.
-[Mechanical and Biomedical](/_Joshua-Ching-2023-10-03-mechanical.pdf)
-[Software](/_Joshua-Ching-2023-10-03-software.pdf)
+Updated as of October 2023.<br>
+[Mechanical and Biomedical](/_Joshua-Ching-2023-10-03-mechanical.pdf)<br>
+[Software](/_Joshua-Ching-2023-10-03-software.pdf)<br>
